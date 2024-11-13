@@ -72,6 +72,8 @@ function App() {
     }
   };
 
+
+  
   const errorsMessage = {
     "Infinity": "Não é possível dividir por zero",
     "-Infinity": "Não é possível dividir por zero",
@@ -91,5 +93,4 @@ function App() {
 }
 
 export default App;
-
 
